@@ -1,0 +1,12 @@
+{
+  "appId": "thori.shopping.app",
+  "appName": "shoppingTools",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

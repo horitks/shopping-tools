@@ -1,5 +1,5 @@
 {
-  "appId": "thoriShoppingTools",
+  "appId": "thori.shopping.app",
   "appName": "shoppingTools",
   "bundledWebRuntime": false,
   "npmClient": "npm",
